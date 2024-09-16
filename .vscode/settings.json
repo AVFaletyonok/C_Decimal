@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "__locale": "c",
+        "chrono": "c",
+        "functional": "c",
+        "s21_decimal_tests.h": "c",
+        "s21_decimal.h": "c",
+        "span": "c",
+        "type_traits": "c",
+        "stdio.h": "c"
+    }
+}
